@@ -41,7 +41,7 @@ We also provided a conda environment file (from Linux). Users can build the envi
 conda env create -f environment.yaml
 ```
 
-Due to the large size of the data files, we have made the data available for download on the XXX public website.
+Due to the large size of the data files, we have made the data available for download on the https://zenodo.org/records/23234394 public website.
 
 We upload a trained model for risk gene identification. To run this model, you can use the command line instructions:
 ```
